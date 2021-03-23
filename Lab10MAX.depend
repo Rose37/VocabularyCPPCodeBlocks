@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1606420998 source:c:\c++\lab10max\vocab.cpp
+	<iostream>
+	<fstream>
+
+1606421294 source:c:\c++\lab10max\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	"vocab.h"
+	<stdio.h>
+	<Windows.h>
+
+1606420878 c:\c++\lab10max\vocab.h
+
